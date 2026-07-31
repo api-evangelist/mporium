@@ -1,7 +1,31 @@
 aid: mporium
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/mporium.png
 name: Mporium
-description: Mporium is a company surfaced as a portfolio company of anthemis and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Mporium (Mporium Group plc, formerly MoPowered) was a London-based, "mobile
+  first" data-driven marketing and advertising-technology company founded in
+  2012. Its proprietary IMPACT platform delivered software-as-a-service that
+  helped agencies and advertisers identify and act on consumer "micro-moments"
+  across search, social, and display media, reacting to real-time signals from
+  TV, news feeds, sports, financial data, and social media to optimise ad
+  pricing, timing, and selection. The group also acquired the digital agency
+  Fast Web Media. Mporium was a portfolio company of the fintech venture firm
+  Anthemis and was previously listed on the London Stock Exchange. The company
+  is now defunct: it has been delisted, publishes no developer portal or public
+  API, and its primary domain (mporium.com) is parked and listed for sale. This
+  profile is retained as a historical company record in the API Evangelist
+  network; there is no live API surface to enrich.
 url: https://raw.githubusercontent.com/api-evangelist/mporium/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +33,33 @@ x-backed-by:
 - anthemis
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-status-detail: >-
+  Delisted / dissolved; mporium.com redirects to an Afternic "for sale" parking
+  page (307). No live website, developer portal, API, SDK, or documentation was
+  found. GitHub org github.com/mporium exists but was repurposed (renamed "DA
+  VINCI OPCO LIMITED") and its 4 public repos are unrelated open-source forks.
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Advertising
+- Marketing
+- Ad Tech
+- Mobile
+- Mobile Commerce
+- SaaS
+- MarTech
+- Defunct
 apis: []
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: nochange
+  artifacts_added: 0
+  pass: local-v1
