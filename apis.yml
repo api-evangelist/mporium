@@ -39,7 +39,7 @@ x-status-detail: >-
   page (307). No live website, developer portal, API, SDK, or documentation was
   found. GitHub org github.com/mporium exists but was repurposed (renamed "DA
   VINCI OPCO LIMITED") and its 4 public repos are unrelated open-source forks.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
