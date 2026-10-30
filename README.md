@@ -64,6 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mporium is a company surfaced as a portfolio company of anthemis and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: anthemis
+Mporium (Mporium Group plc, formerly MoPowered) was a London-based, "mobile first" data-driven marketing and advertising-technology company founded in 2012. Its proprietary IMPACT platform delivered software-as-a-service that helped agencies and advertisers identify and act on consumer "micro-moments" across search, social, and display media, reacting to real-time signals from TV, news feeds, sports, financial data, and social media to optimise ad pricing, timing, and selection. The group also acquired the digital agency Fast Web Media. Mporium was a portfolio company of the fintech venture firm Anthemis and was previously listed on the London Stock Exchange. The company is now defunct: it has been delisted, publishes no developer portal or public API, and its primary domain (mporium.com) is parked and listed for sale. This profile is retained as a historical company record in the API Evangelist network; there is no live API surface to enrich.
+
+**Areas:** Company · Advertising · Marketing · AdTech · Mobile · Mobile Commerce · Software-as-a-Service · MarTech · Defunct
+
+## Mporium on APIs.io (historical record)
+
+Everything profiled for Mporium is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mporium/](https://apis.io/providers/mporium/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mporium: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mporium/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
